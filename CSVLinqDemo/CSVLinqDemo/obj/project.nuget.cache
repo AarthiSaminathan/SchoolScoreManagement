@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNsAsKmy50mRnG9fV09uH4nBcMt8FAd5NJfW4OvVjmulIgGDxR4Hb5jPRZrakEJjen8ndZqdZVu61jnC08EOrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aarthi.s\\source\\repos\\CSVLinqDemo\\CSVLinqDemo\\CSVLinqDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aarthi.s\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

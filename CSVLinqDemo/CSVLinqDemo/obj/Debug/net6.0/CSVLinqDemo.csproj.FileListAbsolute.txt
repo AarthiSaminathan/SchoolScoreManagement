@@ -1,0 +1,17 @@
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\bin\Debug\net6.0\CSVLinqDemo.exe
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\bin\Debug\net6.0\CSVLinqDemo.deps.json
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\bin\Debug\net6.0\CSVLinqDemo.runtimeconfig.json
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\bin\Debug\net6.0\CSVLinqDemo.dll
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\bin\Debug\net6.0\CSVLinqDemo.pdb
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.csproj.AssemblyReference.cache
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.AssemblyInfoInputs.cache
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.AssemblyInfo.cs
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.csproj.CopyComplete
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.dll
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\refint\CSVLinqDemo.dll
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.pdb
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\CSVLinqDemo.genruntimeconfig.cache
+C:\Users\aarthi.s\source\repos\CSVLinqDemo\CSVLinqDemo\obj\Debug\net6.0\ref\CSVLinqDemo.dll
